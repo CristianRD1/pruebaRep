@@ -59,9 +59,9 @@ public class Date {
    *     to pass).
    */
   public Date(int day, int month, int year) {
-    this.day = day;
-    this.month = month;
-    this.year = year;
+    this.day = tag;
+    this.month = monat;
+    this.year = jahr;
   }
 
   /**
