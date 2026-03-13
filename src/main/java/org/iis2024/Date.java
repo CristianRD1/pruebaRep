@@ -35,7 +35,7 @@ public class Date {
   /**
    * Retrieves the month component of this date.
    *
-   * @return The month of the year (1-12).
+   * @return The month of the year (1-12).gi
    */
   public int getMonth() {
     return month;
